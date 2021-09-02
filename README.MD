@@ -2,9 +2,11 @@
 
 Given an undirected graph and a number m, determine if the graph can be coloured with at most m colours such that no two adjacent vertices of the graph are colored with the same color. Here coloring of a graph means the assignment of colors to all vertices. 
 
+![vertex coloring](https://user-images.githubusercontent.com/5745279/131906463-aa103c3d-5add-408f-aeeb-797d0c0e7e4b.png)
+
+
 #### Solution
 Method: BFS  
-Data Structure: Queue  
 Time Complexity: O(n + v)  
 Language: Golang
 
